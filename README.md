@@ -65,8 +65,18 @@ I am a Data Analyst - AI Developer <img src="https://media.giphy.com/media/WUlpl
 
   ---
 
+  
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomualdKouadio&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdKouadio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdKouadio&layout=compact)](https://github.com/RomualdKouadio/github-readme-stats)
+  
+  
+  <a href="https://github.com/RomualdKouadio/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomualdKouadio&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/RomualdKouadio/Projet_Analyse_de_sentiments">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomualdKouadio&repo=Projet_Analyse_de_sentiments" />
+</a>
