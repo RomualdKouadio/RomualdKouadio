@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Data Science, Big Data, IA
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-kouadio-29b606216/)
+- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-romuald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-kouadio-29b606216/)
