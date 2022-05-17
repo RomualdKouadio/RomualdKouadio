@@ -73,10 +73,3 @@ I am a Data Analyst - AI Developer <img src="https://media.giphy.com/media/WUlpl
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdKouadio&layout=compact)](https://github.com/RomualdKouadio/github-readme-stats)
   
-  
-  <a href="https://github.com/RomualdKouadio/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomualdKouadio&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/RomualdKouadio/Segmentation_Client_KMeans_Clustering">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomualdKouadio&repo=Segmentation_Client_KMeans_Clustering" />
-  </a>
