@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-### : woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 - 👋 Hi, I’m @RomualdKouadio
 - 👀 I’m interested in Data Science, Big Data, IA
