@@ -21,6 +21,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" height="300"/>
 </div>
 
+
+---
+
+
+### : woman_technologist: About Me :
+
 - 👋 Hi, I’m @RomualdKouadio
 - 👀 I’m interested in Data Science, Big Data, IA
 - 🌱 I’m currently learning Data Engineering
