@@ -73,4 +73,4 @@ I am a Data Analyst - AI Developer <img src="https://media.giphy.com/media/WUlpl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdKouadio)](https://github.com/RomualdKouadio/github-readme-stats)
   
   
-[![Romuald KOUADIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomualdKouadio&show_icons=true&theme=radical)
+[Romuald KOUADIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomualdKouadio&show_icons=true&theme=radical)
